@@ -13,7 +13,8 @@ A fast, clean, gesture-driven video player for Android. MVP uses native hardware
 ---
 ## Screenshot
 
-<img width="720" height="1600" alt="Screenshot_2026-11-09-19-05-53-38" src="https://github.com/user-attachments/assets/ceabee3f-72c7-49d6-bd2d-0a491c034efc" />
+<img width="1452" height="1600" alt="mvp-sc128" src="https://github.com/user-attachments/assets/64135c87-5ac3-4452-a266-38ee3f567179" />
+
 
 ---
 
